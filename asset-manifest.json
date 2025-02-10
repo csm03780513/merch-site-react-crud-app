@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/merch-site-react-crud-app/static/css/main.cdf4d808.css",
+    "main.js": "/merch-site-react-crud-app/static/js/main.34474bbf.js",
+    "static/js/488.ee14dade.chunk.js": "/merch-site-react-crud-app/static/js/488.ee14dade.chunk.js",
+    "index.html": "/merch-site-react-crud-app/index.html",
+    "main.cdf4d808.css.map": "/merch-site-react-crud-app/static/css/main.cdf4d808.css.map",
+    "main.34474bbf.js.map": "/merch-site-react-crud-app/static/js/main.34474bbf.js.map",
+    "488.ee14dade.chunk.js.map": "/merch-site-react-crud-app/static/js/488.ee14dade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf4d808.css",
+    "static/js/main.34474bbf.js"
+  ]
+}
